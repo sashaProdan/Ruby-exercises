@@ -1,0 +1,1 @@
+1.upto(99) { |num| print "#{num}\n" if num.even? }
